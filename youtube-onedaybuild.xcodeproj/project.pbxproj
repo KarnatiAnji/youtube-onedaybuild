@@ -16,6 +16,7 @@
 		84153E0C2502551300361482 /* Modeltourl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84153E0B2502551300361482 /* Modeltourl.swift */; };
 		84153E0E2502867800361482 /* Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84153E0D2502867800361482 /* Video.swift */; };
 		84153E102502960900361482 /* Response.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84153E0F2502960900361482 /* Response.swift */; };
+		84153E1225029F2400361482 /* ConstantsTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84153E1125029F2400361482 /* ConstantsTemplate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		84153E0B2502551300361482 /* Modeltourl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Modeltourl.swift; sourceTree = "<group>"; };
 		84153E0D2502867800361482 /* Video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Video.swift; sourceTree = "<group>"; };
 		84153E0F2502960900361482 /* Response.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Response.swift; sourceTree = "<group>"; };
+		84153E1125029F2400361482 /* ConstantsTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstantsTemplate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				84153E0B2502551300361482 /* Modeltourl.swift */,
 				84153E0D2502867800361482 /* Video.swift */,
 				84153E0F2502960900361482 /* Response.swift */,
+				84153E1125029F2400361482 /* ConstantsTemplate.swift */,
 			);
 			path = "youtube-onedaybuild";
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				84153E1225029F2400361482 /* ConstantsTemplate.swift in Sources */,
 				84153DF825021C0700361482 /* ViewController.swift in Sources */,
 				84153DF625021C0700361482 /* AppDelegate.swift in Sources */,
 				84153E0C2502551300361482 /* Modeltourl.swift in Sources */,
