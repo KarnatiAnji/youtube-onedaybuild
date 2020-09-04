@@ -12,9 +12,8 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        let i = 0
-        var j = i+1
-        j += 1
+        var i = 0
+        i -= 1
     }
 
 
