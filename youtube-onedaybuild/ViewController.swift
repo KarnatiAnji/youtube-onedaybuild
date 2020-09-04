@@ -9,11 +9,11 @@
 import UIKit
 
 class ViewController: UIViewController {
+    let model = Modeltourl()
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        var i = 0
-        i += 1
+      model.getVideos()
     }
 
 
